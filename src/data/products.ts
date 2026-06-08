@@ -152,6 +152,7 @@ const pcs13to60: ReadyPC[] = [
   pc('PC-58', 'Ultra 7 265K', '360MM Liquid', 'B860M', 'DDR5 16GB', 'MID TOWER', 'ARGB FAN 4X', '850W', 'RTX 5060Ti', '1TB nvme', 5555000, 5290000),
   pc('PC-59', 'Ultra 7 265K', '360MM Liquid', 'B860M', 'DDR5 16GB', 'MID TOWER', 'ARGB FAN 4X', '850W', 'RTX 4070', '512GB nvme', 5550000, 5215000),
   pc('PC-60', 'Ultra 9 285K', '360MM Liquid', 'B860M', 'DDR5 32GB', 'MID TOWER', 'ARGB FAN 4X', '750W', 'RTX 5060Ti', '1TB nvme', 7070000, 6870000),
+  pc('PC-61', 'i5 14400F', 'T400', 'H610H2', 'DDR5 16GB', 'TTAKE F4', 'LED FAN 3X', '650W', 'RTX 5060', '512GB nvme', 3500000, 3400000),
 ];
 
 // ===== All Ready PCs combined =====
